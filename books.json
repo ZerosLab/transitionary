@@ -7,6 +7,41 @@
 			"shelf": "true",
 			"tbr": "true"
 		},
+			"title": "Earth Inferno",
+			"author": "Austin Osman Spare",
+			"rating": "??/10",
+			"year": "1905",
+			"shelf": "false",
+			"tbr": "true"
+		},
+			"title": "A Book of Satyrs",
+			"author": "Austin Osman Spare",
+			"rating": "??/10",
+			"year": "1907",
+			"shelf": "false",
+			"tbr": "true"
+		},
+			"title": "The Book of Pleasure",
+			"author": "Austin Osman Spare",
+			"rating": "??/10",
+			"year": "1913",
+			"shelf": "false",
+			"tbr": "true"
+		},
+			"title": "The Focus of Life",
+			"author": "Austin Osman Spare",
+			"rating": "??/10",
+			"year": "1921",
+			"shelf": "false",
+			"tbr": "true"
+		},
+			"title": "The Anathema of Zos",
+			"author": "Austin Osman Spare",
+			"rating": "??/10",
+			"year": "1921",
+			"shelf": "false",
+			"tbr": "true"
+		},
 		{
 			"title": "The Apocryphal Gospels",
 			"author": "Various",
