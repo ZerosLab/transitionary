@@ -586,9 +586,57 @@
       "author": "Angie Sage",
       "rating": "??/10",
       "year": "2007",
-      "shelf": "false",
+      "shelf": "true",
       "tbr": "true"
     },
+    	{
+  	"title": "His Dark Materials 2: The Subtle Knife",
+  	"author": "Phillip Pullman",
+  	"rating": "??/10",
+  	"year": "",
+  	"shelf": "true",
+  	"tbr": "true"
+	},
+	{
+  	"title": "His Dark Materials 3: The Amber Spyglass",
+  	"author": "Phillip Pullman",
+  	"rating": "??/10",
+  	"year": "",
+  	"shelf": "true",
+  	"tbr": "true"
+	},
+	{
+  	"title": "Kabbalah for the Layman, Volume 1",
+  	"author": "Dr. Phillip S. Berg",
+  	"rating": "??/10",
+  	"year": "",
+  	"shelf": "true",
+  	"tbr": "true"
+	},
+	{
+  	"title": "Kabbalah for the Layman, Volume 2",
+  	"author": "Dr. Phillip S. Berg",
+  	"rating": "??/10",
+  	"year": "",
+  	"shelf": "true",
+  	"tbr": "true"
+	},
+	{
+  	"title": "Looking for Potholes",
+  	"author": "Joe Wenke",
+  	"rating": "??/10",
+  	"year": "",
+  	"shelf": "true",
+  	"tbr": "true"
+	},
+	{
+  	"title": "Free Air",
+  	"author": "Joe Wenke",
+  	"rating": "??/10",
+  	"year": "",
+  	"shelf": "true",
+  	"tbr": "true"
+	},
     {
       "title": "Septimus Heap Book 4: Queste",
       "author": "Angie Sage",
@@ -1813,6 +1861,78 @@
       "tbr": "true"
     },
     {
+      "title": "The Protestand Ethic and the Spirit of Capitalism",
+      "author": "Max Weber",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Three Persons in One God",
+      "author": "Gerars S. Sloyan",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "An Existential Approach To Theology",
+      "author": "G.M.A. Jansen, O.P.",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "The Secrets of the Immortal Nicholas Flamel: The Alchemyst",
+      "author": "Michael Scott",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "The Unwanteds Quests: Dragon Captives",
+      "author": "Lisa McMann",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Marxism and the Muslim World",
+      "author": "Maxime Rodinson",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Cowan: A Stonewall Inn Book",
+      "author": "Craig Cowan",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Interstellar Pig",
+      "author": "William Sleator",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Plague Year",
+      "author": "Stephanie S. Tolan",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
       "title": "Rebel",
       "author": "Amy Tintera",
       "rating": "??/10",
@@ -2679,9 +2799,9 @@
   ],
   "movies": [
     {
-      "title": "",
+      "title": "Bionicle 2: Legends of The Metro Nui",
       "director": "",
-      "year": "",
+      "year": "2004",
       "rating": "??/10",
       "shelf": "true",
       "tbr": "true"
@@ -2896,6 +3016,30 @@
       "year": "1994",
       "format": "cd",
       "ctlg": "CDP 7243 8 29750 2 1",
+      "rating": "??/10",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Wolves",
+      "artist": "Rise Against",
+      "contributing": "",
+      "label": "Virgin Records",
+      "year": "2017",
+      "format": "cd",
+      "ctlg": "B002678602",
+      "rating": "??/10",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Danger Days: True Lives of the Fabulous Killjoys",
+      "artist": "My Chemical Romance",
+      "contributing": "",
+      "label": "Reprise Records",
+      "year": "2010",
+      "format": "cd",
+      "ctlg": "521752",
       "rating": "??/10",
       "shelf": "true",
       "tbr": "true"
