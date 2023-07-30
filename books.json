@@ -57,8 +57,40 @@
 	},
 	{
   	"title": "The Holy Quran",
-  	"author": "the LORD",
+  	"author": "Muhammad",
   	"translator": "Abdullah Yusuf Ali",
+  	"rating": "??/10",
+  	"year": "",
+  	"shelf": "true",
+  	"tbr": ""
+	},
+	{
+  	"title": "New International Webster's Pocket English/Spanish Dictionary",
+  	"author": "",
+  	"rating": "??/10",
+  	"year": "2009",
+  	"shelf": "true",
+  	"tbr": ""
+	},
+	{
+  	"title": "New International Webster's Pocket Dictionary",
+  	"author": "",
+  	"rating": "??/10",
+  	"year": "2009",
+  	"shelf": "true",
+  	"tbr": ""
+	},
+	{
+  	"title": "New International Webster's Pocket Thesaurus",
+  	"author": "",
+  	"rating": "??/10",
+  	"year": "2009",
+  	"shelf": "true",
+  	"tbr": ""
+	},
+	{
+  	"title": "",
+  	"author": "",
   	"rating": "??/10",
   	"year": "",
   	"shelf": "true",
