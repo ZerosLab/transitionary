@@ -2476,6 +2476,14 @@
       "tbr": "true"
     },
     {
+      "title": "Bone 1: Out from Boneville",
+      "author": "Jeff Smith",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
       "title": "Bone 2: The Great Cow Race",
       "author": "Jeff Smith",
       "rating": "??/10",
@@ -2516,15 +2524,47 @@
       "tbr": "true"
     },
     {
-      "title": "How to Train your Dragon 1",
-      "author": "Cressida Cowell",
+      "title": "Bone 7: Ghost Circles",
+      "author": "Jeff Smith",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "Bone 8: Treasure Hunters",
+      "author": "Jeff Smith",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "Bone 9: Crown of Horns",
+      "author": "Jeff Smith",
       "rating": "??/10",
       "year": "",
       "shelf": "true",
       "tbr": "true"
     },
     {
-      "title": "How to Train your Dragon 7: How to Ride a Dragon's Storm",
+      "title": "Bone 6: Old Man's Cave",
+      "author": "Jeff Smith",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Bone: Rose",
+      "author": "Jeff Smith",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 1",
       "author": "Cressida Cowell",
       "rating": "??/10",
       "year": "",
@@ -2537,6 +2577,86 @@
       "rating": "??/10",
       "year": "",
       "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 3: How to Speak Dragonese",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 4: How to Cheat a Dragon's Curse",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 5: How to Twist a Dragon's Tale",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 6: A Hero's Guide to Deadly Dragons",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 7: How to Ride a Dragon's Storm",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 8: How to Break a Dragon's Heart",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 9: How to Steal a Dragon's Sword",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 10: How to Seize a Dragon's Jewel",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 11: How to Betray a Dragon's Hero",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 12: How to Fight a Dragon's Fury",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
       "tbr": "true"
     },
     {
@@ -2975,11 +3095,27 @@
       "tbr": "true"
     },
     {
+      "title": "Bone: Quest for the Spark 1",
+      "author": "Jeff Smith",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": "true"
+    },
+    {
       "title": "Bone: Quest for the Spark 2",
       "author": "Jeff Smith",
       "rating": "??/10",
       "year": "",
       "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Bone: Quest for the Spark 3",
+      "author": "Jeff Smith",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
       "tbr": "true"
     },
     {
