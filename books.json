@@ -2524,6 +2524,22 @@
       "tbr": "true"
     },
     {
+      "title": "How to Train your Dragon 7: How to Ride a Dragon's Storm",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "How to Train your Dragon 2: How to Be a Pirate",
+      "author": "Cressida Cowell",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
       "title": "Guardians of Ga’Hoole 4: The Siege",
       "author": "Kathryn Lasky",
       "rating": "??/10",
@@ -3738,6 +3754,15 @@
       "publisher": "Nintendo",
       "console": "NSwitch",
       "year": "2019",
+      "rating": "??/10",
+      "shelf": "true",
+      "tbr": "true"
+    }
+    {
+      "title": "Arcade Game Collection",
+      "publisher": "Association of Shareware Professionals",
+      "console": "MS-DOS",
+      "year": "",
       "rating": "??/10",
       "shelf": "true",
       "tbr": "true"
