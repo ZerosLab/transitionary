@@ -6,636 +6,629 @@
       "rating": "??/10",
       "year": "2021",
       "shelf": "true",
-	"cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597056415i/54870256.jpg",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597056415i/54870256.jpg",
       "tbr": "true"
-    },{
-  	"title": "A Series of Unfortunate Events: The Bad Beginning",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},	
-           {
-  	"title": "A Series of Unfortunate Events: The Ersatz Elevator",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},	
-            {
-  	"title": "A Series of Unfortunate Events: The Vile Village",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	
-            {
-  	"title": "A Series of Unfortunate Events: The Hostile Hospital",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-            {
-  	"title": "You Shall Be As Gods",
-  	"author": "Erich Fromm",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},{
-  	"title": "Tethering",
-  	"author": "Tom Orange",
-  	"rating": "??/10",
-  	"year": "2005",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Holy Quran",
-  	"author": "Muhammad",
-  	"translator": "Abdullah Yusuf Ali",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "New International Webster's Pocket English/Spanish Dictionary",
-  	"author": "",
-  	"rating": "??/10",
-  	"year": "2009",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "New International Webster's Pocket Dictionary",
-  	"author": "",
-  	"rating": "??/10",
-  	"year": "2009",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "New International Webster's Pocket Thesaurus",
-  	"author": "",
-  	"rating": "??/10",
-  	"year": "2009",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "",
-  	"author": "",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Unwanteds 5: Island of Shipwrecks",
-  	"author": "Lisa McMann",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Unwanteds 4: Island of Legends",
-  	"author": "Lisa McMann",
-  	"rating": "??/10",
-  	"year": "2014",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Unwanteds 2: Island of Silence",
-  	"author": "Lisa McMann",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Unwanteds 3: Island of Fire",
-  	"author": "Lisa McMann",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Unwanteds 6: Island of Graves",
-  	"author": "Lisa McMann",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Unwanteds 7: Island of Dragons",
-  	"author": "Lisa McMann",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Cardinal and the Sparrow",
-  	"author": "Elisabeth Stanley",
-  	"rating": "??/10",
-  	"year": "2022",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Michael Vey: the Prisoner of Cell 25",
-  	"author": "Richard Paul Evans",
-  	"rating": "??/10",
-  	"year": "2011",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "Michael Vey 2: Rise of the Elgen",
-  	"author": "Richard Paul Evans",
-  	"rating": "??/10",
-  	"year": "2012",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Michael Vey 3: The Battle of the Ampere",
-  	"author": "Richard Paul Evans",
-  	"rating": "??/10",
-  	"year": "2013",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "Michael Vey 4: Hunt for the Jade Dragon",
-  	"author": "Richard Paul Evans",
-  	"rating": "??/10",
-  	"year": "2014",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "Michael Vey 5: Storm of Lightning",
-  	"author": "Richard Paul Evans",
-  	"rating": "??/10",
-  	"year": "2015",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "Michael Vey 6: Fall of Hades",
-  	"author": "Richard Paul Evans",
-  	"rating": "??/10",
-  	"year": "2016",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "Michael Vey 7: The Final Spark",
-  	"author": "Richard Paul Evans",
-  	"rating": "??/10",
-  	"year": "2017",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "Michael Vey: The Parasite",
-  	"author": "Richard Paul Evans",
-  	"rating": "??/10",
-  	"year": "2022",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "Michael Vey: The Traitor",
-  	"author": "Richard Paul Evans",
-  	"rating": "??/10",
-  	"year": "2023",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "Daydream",
-  	"author": "Carl Weiner",
-  	"rating": "??/10",
-  	"year": "2005",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Mason",
-  	"author": "Salani",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "A Light in the Grapes",
-  	"author": "Edward Boccia",
-  	"rating": "??/10",
-  	"year": "2000",
-  	"shelf": "true",
-  	"tbr": "true"
-	},
-	{
-  	"title": "The 57 Bus",
-  	"author": "Dashka Slater",
-  	"rating": "??/10",
-  	"year": "2017",
-  	"shelf": "true",
-  	"tbr": "true"
-	},
-	{
-  	"title": "The Strong Force",
-  	"author": "Martin Abramson",
-  	"rating": "??/10",
-  	"year": "????",
-  	"shelf": "true",
-  	"tbr": ""
     },
     {
-  	"title": "A Book of Currencies",
-  	"author": "Stephen Ellis",
-  	"rating": "??/10",
-  	"year": "1997",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Moving the Still Life",
-  	"author": "Edward Boccia",
-  	"rating": "??/10",
-  	"year": "1993",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Hungry Nights",
-  	"author": "Carol Sherman",
-  	"rating": "??/10",
-  	"year": "2008-2009",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The King of Farce & The Queen of Tragedy",
-  	"author": "Carol Sherman",
-  	"rating": "??/10",
-  	"year": "1987",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Carlo X",
-  	"author": "Edward Boccia",
-  	"rating": "??/10",
-  	"year": "2008",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "the Old Judge Stories",
-  	"author": "Carol Sherman",
-  	"rating": "??/10",
-  	"year": "1993",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Touched by Eros",
-  	"author": "Various",
-  	"editor": "George Held",
-  	"rating": "??/10",
-  	"year": "2002",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Judaeo-Yemenite Studies: Proceedings of the Second International Congress",
-  	"author": "Various",
-  	"editor": "Ephraim Isaac, Yosef Tobi",
-  	"rating": "??/10",
-  	"year": "1999",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "American Alternative Theater",
-  	"author": "Theodore Shank",
-  	"rating": "??/10",
-  	"year": "1982",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "the Cat’s Cradle",
-  	"author": "E.J. Hagadorn",
-  	"rating": "??/10",
-  	"year": "2013",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Associated Press Stylebook and Libel Manual",
-  	"author": "Various",
-  	"editor": "Norm Goldstein",
-  	"rating": "??/10",
-  	"year": "1993",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Gender and Kinship: Essays Toward a Unified Analysis",
-  	"author": "Various",
-  	"editor": "Jane Fishburne Collier, Sylvia Junko Yanagisako",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Gun Seller",
-  	"author": "Hugh Laurie",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Prelude to Foundation",
-  	"author": "Isaac Asimov",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Pocket Guide to Wicca",
-  	"author": "Paul Tuitéan, Estelle Daniels ",
-  	"rating": "??/10",
-  	"year": "1998",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Beyond Birth and Death",
-  	"author": "HDG Bhaktivedanta Swami Prabhupāda",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
+      "title": "A Series of Unfortunate Events: The Bad Beginning",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
     },
     {
-  	"title": "The Circular Staircase",
-  	"author": "Mary Roberts Rinehart",
-  	"rating": "??/10",
-  	"year": "2022",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Sex and the Slayer: a Gender Studies Primer for the Buffy Fan",
-  	"author": "Lorna Jowett",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Unaccustomed to Grace",
-  	"author": "Lesley Bannatyne",
-  	"rating": "??/10",
-  	"year": "2013",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Singing Bowls: A Practical Handbook of Instruction and Use",
-  	"author": "Eva Rudy Jansen",
-  	"rating": "??/10",
-  	"year": "2004",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Elvenbane",
-  	"author": "Andre Norton, Mercedes Lackey",
-  	"rating": "??/10",
-  	"year": "1991",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-
-	
-            {
-  	"title": "A Series of Unfortunate Events: The Carnivorous Carnical",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	
-            {
-  	"title": "A Series of Unfortunate Events: The Slippery Slope",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	
-            {
-  	"title": "A Series of Unfortunate Events: The Grim Grotto",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	
-            {
-  	"title": "A Series of Unfortunate Events: The Penultimate Peril",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	
-            {
-  	"title": "A Series of Unfortunate Events: The End",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-{
-  	"title": "A Series of Unfortunate Events: The Reptile Room",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "A Series of Unfortunate Events: The Wide Window",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "A Series of Unfortunate Events: The Miserable Mill",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "A Series of Unfortunate Events: The Austere Academy",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-
-
-	{
-  	"title": "Works of Jules Verne",
-  	"author": "Jules Verne",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Democracy, if we can keep it",
-  	"author": "Ellis Cose",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "An Absolutely Remarkable Thing",
-  	"author": "Hank Green",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "All The Wrong Questions: When did you see her last?",
-  	"author": "Lemony Snicket",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "How To Lie With Staistics",
-  	"author": "Darrell Huff",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Hate",
-  	"author": "Nadine Strossen",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Greatest Failure in all History",
-  	"author": "",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Report of the Committee on Freedom of Expression at Yale",
-  	"author": "Committee on Freedom of Expression at Yale",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Civil Rights Decisons of the United States Supreme Court: The 20th Century ",
-  	"editor": "Maureen Harrison, Steve Gilbert",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Extremely Loud and Incredibly Close",
-  	"author": "Jonathan Safran Foer",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Pendragon: Before the War: Book Three of the Travelers",
-  	"author": "Jonathan Safran Foer",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "false",
-  	"tbr": ""
-	},
-	{
-  	"title": "The Hunchback of Notre-Dame",
-  	"author": "Victor Hugo",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Magnus Chase and the Gods of Asgard: The Ship of the Dead",
-  	"author": "Rick Riordan ",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Mythology",
-  	"author": "Edith Hamilton ",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
-	},
-	{
-  	"title": "Faust",
-  	"author": "Goethe",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": ""
+      "title": "A Series of Unfortunate Events: The Ersatz Elevator",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Vile Village",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Hostile Hospital",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "You Shall Be As Gods",
+      "author": "Erich Fromm",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Tethering",
+      "author": "Tom Orange",
+      "rating": "??/10",
+      "year": "2005",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Holy Quran",
+      "author": "Muhammad",
+      "translator": "Abdullah Yusuf Ali",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "New International Webster's Pocket English/Spanish Dictionary",
+      "author": "",
+      "rating": "??/10",
+      "year": "2009",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "New International Webster's Pocket Dictionary",
+      "author": "",
+      "rating": "??/10",
+      "year": "2009",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "New International Webster's Pocket Thesaurus",
+      "author": "",
+      "rating": "??/10",
+      "year": "2009",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "",
+      "author": "",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Unwanteds 5: Island of Shipwrecks",
+      "author": "Lisa McMann",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Unwanteds 4: Island of Legends",
+      "author": "Lisa McMann",
+      "rating": "??/10",
+      "year": "2014",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Unwanteds 2: Island of Silence",
+      "author": "Lisa McMann",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "The Unwanteds 3: Island of Fire",
+      "author": "Lisa McMann",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Unwanteds 6: Island of Graves",
+      "author": "Lisa McMann",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Unwanteds 7: Island of Dragons",
+      "author": "Lisa McMann",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Cardinal and the Sparrow",
+      "author": "Elisabeth Stanley",
+      "rating": "??/10",
+      "year": "2022",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Michael Vey: the Prisoner of Cell 25",
+      "author": "Richard Paul Evans",
+      "rating": "??/10",
+      "year": "2011",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "Michael Vey 2: Rise of the Elgen",
+      "author": "Richard Paul Evans",
+      "rating": "??/10",
+      "year": "2012",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Michael Vey 3: The Battle of the Ampere",
+      "author": "Richard Paul Evans",
+      "rating": "??/10",
+      "year": "2013",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "Michael Vey 4: Hunt for the Jade Dragon",
+      "author": "Richard Paul Evans",
+      "rating": "??/10",
+      "year": "2014",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "Michael Vey 5: Storm of Lightning",
+      "author": "Richard Paul Evans",
+      "rating": "??/10",
+      "year": "2015",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "Michael Vey 6: Fall of Hades",
+      "author": "Richard Paul Evans",
+      "rating": "??/10",
+      "year": "2016",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "Michael Vey 7: The Final Spark",
+      "author": "Richard Paul Evans",
+      "rating": "??/10",
+      "year": "2017",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "Michael Vey: The Parasite",
+      "author": "Richard Paul Evans",
+      "rating": "??/10",
+      "year": "2022",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "Michael Vey: The Traitor",
+      "author": "Richard Paul Evans",
+      "rating": "??/10",
+      "year": "2023",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "Daydream",
+      "author": "Carl Weiner",
+      "rating": "??/10",
+      "year": "2005",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Mason",
+      "author": "Salani",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Light in the Grapes",
+      "author": "Edward Boccia",
+      "rating": "??/10",
+      "year": "2000",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "The 57 Bus",
+      "author": "Dashka Slater",
+      "rating": "??/10",
+      "year": "2017",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "The Strong Force",
+      "author": "Martin Abramson",
+      "rating": "??/10",
+      "year": "????",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Book of Currencies",
+      "author": "Stephen Ellis",
+      "rating": "??/10",
+      "year": "1997",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Moving the Still Life",
+      "author": "Edward Boccia",
+      "rating": "??/10",
+      "year": "1993",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Hungry Nights",
+      "author": "Carol Sherman",
+      "rating": "??/10",
+      "year": "2008-2009",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The King of Farce & The Queen of Tragedy",
+      "author": "Carol Sherman",
+      "rating": "??/10",
+      "year": "1987",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Carlo X",
+      "author": "Edward Boccia",
+      "rating": "??/10",
+      "year": "2008",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "the Old Judge Stories",
+      "author": "Carol Sherman",
+      "rating": "??/10",
+      "year": "1993",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Touched by Eros",
+      "author": "Various",
+      "editor": "George Held",
+      "rating": "??/10",
+      "year": "2002",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Judaeo-Yemenite Studies: Proceedings of the Second International Congress",
+      "author": "Various",
+      "editor": "Ephraim Isaac, Yosef Tobi",
+      "rating": "??/10",
+      "year": "1999",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "American Alternative Theater",
+      "author": "Theodore Shank",
+      "rating": "??/10",
+      "year": "1982",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "the Cat’s Cradle",
+      "author": "E.J. Hagadorn",
+      "rating": "??/10",
+      "year": "2013",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Associated Press Stylebook and Libel Manual",
+      "author": "Various",
+      "editor": "Norm Goldstein",
+      "rating": "??/10",
+      "year": "1993",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Gender and Kinship: Essays Toward a Unified Analysis",
+      "author": "Various",
+      "editor": "Jane Fishburne Collier, Sylvia Junko Yanagisako",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Gun Seller",
+      "author": "Hugh Laurie",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Prelude to Foundation",
+      "author": "Isaac Asimov",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Pocket Guide to Wicca",
+      "author": "Paul Tuitéan, Estelle Daniels ",
+      "rating": "??/10",
+      "year": "1998",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Beyond Birth and Death",
+      "author": "HDG Bhaktivedanta Swami Prabhupāda",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Circular Staircase",
+      "author": "Mary Roberts Rinehart",
+      "rating": "??/10",
+      "year": "2022",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Sex and the Slayer: a Gender Studies Primer for the Buffy Fan",
+      "author": "Lorna Jowett",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Unaccustomed to Grace",
+      "author": "Lesley Bannatyne",
+      "rating": "??/10",
+      "year": "2013",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Singing Bowls: A Practical Handbook of Instruction and Use",
+      "author": "Eva Rudy Jansen",
+      "rating": "??/10",
+      "year": "2004",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Elvenbane",
+      "author": "Andre Norton, Mercedes Lackey",
+      "rating": "??/10",
+      "year": "1991",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Carnivorous Carnical",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Slippery Slope",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Grim Grotto",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Penultimate Peril",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The End",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Reptile Room",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Wide Window",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Miserable Mill",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "A Series of Unfortunate Events: The Austere Academy",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Works of Jules Verne",
+      "author": "Jules Verne",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Democracy, if we can keep it",
+      "author": "Ellis Cose",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "An Absolutely Remarkable Thing",
+      "author": "Hank Green",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "All The Wrong Questions: When did you see her last?",
+      "author": "Lemony Snicket",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "How To Lie With Staistics",
+      "author": "Darrell Huff",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Hate",
+      "author": "Nadine Strossen",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "The Greatest Failure in all History",
+      "author": "",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Report of the Committee on Freedom of Expression at Yale",
+      "author": "Committee on Freedom of Expression at Yale",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Civil Rights Decisons of the United States Supreme Court: The 20th Century ",
+      "editor": "Maureen Harrison, Steve Gilbert",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Extremely Loud and Incredibly Close",
+      "author": "Jonathan Safran Foer",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Pendragon: Before the War: Book Three of the Travelers",
+      "author": "Jonathan Safran Foer",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "false",
+      "tbr": ""
+    },
+    {
+      "title": "The Hunchback of Notre-Dame",
+      "author": "Victor Hugo",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Magnus Chase and the Gods of Asgard: The Ship of the Dead",
+      "author": "Rick Riordan ",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Mythology",
+      "author": "Edith Hamilton ",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
+    },
+    {
+      "title": "Faust",
+      "author": "Goethe",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": ""
     },
     {
       "title": "Earth Inferno",
@@ -987,54 +980,54 @@
       "shelf": "true",
       "tbr": "true"
     },
-    	{
-  	"title": "His Dark Materials 2: The Subtle Knife",
-  	"author": "Phillip Pullman",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": "true"
-	},
-	{
-  	"title": "His Dark Materials 3: The Amber Spyglass",
-  	"author": "Phillip Pullman",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": "true"
-	},
-	{
-  	"title": "Kabbalah for the Layman, Volume 1",
-  	"author": "Dr. Phillip S. Berg",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": "true"
-	},
-	{
-  	"title": "Kabbalah for the Layman, Volume 2",
-  	"author": "Dr. Phillip S. Berg",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": "true"
-	},
-	{
-  	"title": "Looking for Potholes",
-  	"author": "Joe Wenke",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": "true"
-	},
-	{
-  	"title": "Free Air",
-  	"author": "Joe Wenke",
-  	"rating": "??/10",
-  	"year": "",
-  	"shelf": "true",
-  	"tbr": "true"
-	},
+    {
+      "title": "His Dark Materials 2: The Subtle Knife",
+      "author": "Phillip Pullman",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "His Dark Materials 3: The Amber Spyglass",
+      "author": "Phillip Pullman",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Kabbalah for the Layman, Volume 1",
+      "author": "Dr. Phillip S. Berg",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Kabbalah for the Layman, Volume 2",
+      "author": "Dr. Phillip S. Berg",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Looking for Potholes",
+      "author": "Joe Wenke",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Free Air",
+      "author": "Joe Wenke",
+      "rating": "??/10",
+      "year": "",
+      "shelf": "true",
+      "tbr": "true"
+    },
     {
       "title": "Septimus Heap Book 4: Queste",
       "author": "Angie Sage",
@@ -2757,6 +2750,15 @@
       "tbr": "true"
     },
     {
+      "title": "Thomas Simms Bettens",
+      "author": "Various",
+      "rating": "??/10",
+      "year": "1909",
+      "shelf": "true",
+      "tbr": "false",
+      "notes": "the pride of my collection"
+    },
+    {
       "title": "Five Nights At Freddy’s: The Silver Eyes",
       "author": "Scott Cawthon & Kira Breed-Wrisley",
       "rating": "??/10",
@@ -4025,7 +4027,7 @@
       "rating": "??/10",
       "shelf": "true",
       "tbr": "true"
-    }
+    },
     {
       "title": "Arcade Game Collection",
       "publisher": "Association of Shareware Professionals",
