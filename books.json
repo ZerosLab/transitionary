@@ -247,7 +247,15 @@
   	"rating": "??/10",
   	"year": "2000",
   	"shelf": "true",
-  	"tbr": ""
+  	"tbr": "true"
+	},
+	{
+  	"title": "The 57 Bus",
+  	"author": "Dashka Slater",
+  	"rating": "??/10",
+  	"year": "2017",
+  	"shelf": "true",
+  	"tbr": "true"
 	},
 	{
   	"title": "The Strong Force",
