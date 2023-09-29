@@ -2905,6 +2905,48 @@
       "tbr": "true"
     },
     {
+      "title": "The Daemonic Companion: Creating Daemonic Entities To Do Your Will",
+      "author": "Baal Kadmon",
+      "rating": "??/10",
+      "year": "2015",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "It Came from the Closet",
+      "author": "Various",
+      "Editor": "Joe Vallese",
+      "rating": "??/10",
+      "year": "2022",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Mushrooms of the Northeast",
+      "author": "Teresa Marrone and Walt Sturgeon",
+      "rating": "??/10",
+      "year": "2016",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "The Sacred Magic Of Abramelin the Mage",
+      "author": "Abramelin",
+      "translator": "S.L. MacGregor-Mathers"
+      "rating": "??/10",
+      "year": "2016",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Standard Ritual of the Order of the Eastern Star, State of New York",
+      "author": "Grand Chapter, Order of the Eastern Star",
+      "rating": "??/10",
+      "year": "1916",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
       "title": "The Edge Chronicles 2: Stormchaser",
       "author": "Paul Stewart & Chris Riddell",
       "rating": "??/10",
@@ -3951,10 +3993,19 @@
   ],
   "audio": [
     {
-      "title": "",
-      "author": "",
-      "pubisher": "",
-      "year": "",
+      "title": "Mastering Japanese",
+      "author": "Eleanor Harz Jorden",
+      "pubisher": "Barron's",
+      "year": "1963",
+      "rating": "??/10",
+      "shelf": "true",
+      "tbr": "true"
+    },
+    {
+      "title": "Mastering Spanish, Level 2",
+      "author": "Robert P. Stockwell, J.Donald Bowen, Ismael Silva-Fuenzida",
+      "pubisher": "Barron's",
+      "year": "1992",
       "rating": "??/10",
       "shelf": "true",
       "tbr": "true"
