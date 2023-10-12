@@ -15,6 +15,7 @@
             "rating": "??/10",
             "year": "",
             "shelf": "true",
+            "cover":"https://upload.wikimedia.org/wikipedia/en/6/68/BadBeginning.jpg",
             "tbr": ""
         },
         {
@@ -22,6 +23,7 @@
             "author": "Lemony Snicket",
             "rating": "??/10",
             "year": "",
+            "cover":"https://upload.wikimedia.org/wikipedia/en/d/d7/Ersatz_elavator.jpg",
             "shelf": "true",
             "tbr": ""
         },
@@ -30,12 +32,14 @@
             "author": "Lemony Snicket",
             "rating": "??/10",
             "year": "",
+            "cover":"https://upload.wikimedia.org/wikipedia/en/3/35/Vile_village.jpg",
             "shelf": "true",
             "tbr": ""
         },
         {
             "title": "A Series of Unfortunate Events: The Hostile Hospital",
             "author": "Lemony Snicket",
+            "cover":"https://upload.wikimedia.org/wikipedia/en/5/5d/Hostile_hospital.jpg",
             "rating": "??/10",
             "year": "",
             "shelf": "true",
