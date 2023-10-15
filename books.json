@@ -159,6 +159,24 @@
             "tbr": ""
         },
         {
+            "title": "The New Bottoming Book",
+            "author": "Dossie Easton & Janet Hardy",
+            "rating": "??/10",
+            "year": "2001",
+            "shelf": "true",
+            "cover":"https://github.com/ZerosLab/transitionary/blob/main/bttm.jpg?raw=true",
+            "tbr": ""
+        },
+        {
+            "title": "The New Topping Book",
+            "author": "Dossie Easton & Janet Hardy",
+            "rating": "??/10",
+            "year": "2001",
+            "shelf": "true",
+            "cover":"https://github.com/ZerosLab/transitionary/blob/main/topping.jpg?raw=true",
+            "tbr": ""
+        },
+        {
             "title": "Michael Vey: the Prisoner of Cell 25",
             "author": "Richard Paul Evans",
             "rating": "??/10",
