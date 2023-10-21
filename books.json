@@ -95,14 +95,6 @@
             "tbr": ""
         },
         {
-            "title": "",
-            "author": "",
-            "rating": "??/10",
-            "year": "",
-            "shelf": "true",
-            "tbr": ""
-        },
-        {
             "title": "The Unwanteds 5: Island of Shipwrecks",
             "author": "Lisa McMann",
             "rating": "??/10",
@@ -260,6 +252,7 @@
             "title": "GENDERqUEER",
             "author": "Various",
             "editor": "Joan Nestle, Clare Howell, Riki Wilchins",
+            "cover:":"https://www3.alibris-static.com/genderqueer-voices-from-beyond-the-sexual-binary/isbn/9781555837303_l.jpg",
             "rating": "??/10",
             "year": "2002",
             "shelf": "true",
@@ -271,6 +264,7 @@
             "rating": "??/10",
             "year": "2021",
             "shelf": "true",
+            "cover:":"https://static.bookscovers.es/imagenes/9788408/978840822486.JPG",
             "tbr": ""
         },
         {
@@ -287,6 +281,7 @@
             "author": "Frank Herbert",
             "translator": "Herederos de Domingo Santos",
             "rating": "??/10",
+            "cover:":"https://media1.popsugar-assets.com/files/thumbor/Zk9N-SBrcUgy7DNsTZCEL2s9kWE/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2020/09/20/926/n/47139299/464cbcf5b54d7e5d_Dune1/i/Dune-1965.jpg",
             "year": "2021",
             "shelf": "true",
             "tbr": ""
@@ -295,6 +290,7 @@
             "title": "Mason",
             "author": "Salani",
             "rating": "??/10",
+            "cover:":"",
             "year": "",
             "shelf": "true",
             "tbr": ""
@@ -304,6 +300,7 @@
             "author": "Edward Boccia",
             "rating": "??/10",
             "year": "2000",
+            "cover:":"",
             "shelf": "true",
             "tbr": "true"
         },
@@ -312,6 +309,7 @@
             "author": "Dashka Slater",
             "rating": "??/10",
             "year": "2017",
+            "cover:":"https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374303235.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -319,6 +317,7 @@
             "title": "The Strong Force",
             "author": "Martin Abramson",
             "rating": "??/10",
+            "cover:":"",
             "year": "????",
             "shelf": "true",
             "tbr": ""
@@ -327,6 +326,7 @@
             "title": "A Book of Currencies",
             "author": "Stephen Ellis",
             "rating": "??/10",
+            "cover:":"",
             "year": "1997",
             "shelf": "true",
             "tbr": ""
@@ -336,6 +336,7 @@
             "author": "Edward Boccia",
             "rating": "??/10",
             "year": "1993",
+            "cover:":"",
             "shelf": "true",
             "tbr": ""
         },
@@ -345,12 +346,14 @@
             "rating": "??/10",
             "year": "2008-2009",
             "shelf": "true",
+            "cover:":"",
             "tbr": ""
         },
         {
             "title": "The King of Farce & The Queen of Tragedy",
             "author": "Carol Sherman",
             "rating": "??/10",
+            "cover:":"",
             "year": "1987",
             "shelf": "true",
             "tbr": ""
@@ -358,6 +361,7 @@
         {
             "title": "Carlo X",
             "author": "Edward Boccia",
+            "cover:":"",
             "rating": "??/10",
             "year": "2008",
             "shelf": "true",
@@ -366,6 +370,7 @@
         {
             "title": "the Old Judge Stories",
             "author": "Carol Sherman",
+            "cover:":"",
             "rating": "??/10",
             "year": "1993",
             "shelf": "true",
@@ -376,6 +381,7 @@
             "author": "Various",
             "editor": "George Held",
             "rating": "??/10",
+            "cover:":"",
             "year": "2002",
             "shelf": "true",
             "tbr": ""
@@ -386,6 +392,7 @@
             "editor": "Ephraim Isaac, Yosef Tobi",
             "rating": "??/10",
             "year": "1999",
+            "cover:":"",
             "shelf": "true",
             "tbr": ""
         },
@@ -395,6 +402,7 @@
             "rating": "??/10",
             "year": "1982",
             "shelf": "true",
+            "cover:":"",
             "tbr": ""
         },
         {
@@ -402,6 +410,7 @@
             "author": "E.J. Hagadorn",
             "rating": "??/10",
             "year": "2013",
+            "cover:":"",
             "shelf": "true",
             "tbr": ""
         },
@@ -410,6 +419,7 @@
             "author": "Various",
             "editor": "Norm Goldstein",
             "rating": "??/10",
+            "cover:":"",
             "year": "1993",
             "shelf": "true",
             "tbr": ""
@@ -420,6 +430,7 @@
             "editor": "Jane Fishburne Collier, Sylvia Junko Yanagisako",
             "rating": "??/10",
             "year": "",
+            "cover:":"",
             "shelf": "true",
             "tbr": ""
         },
@@ -427,6 +438,7 @@
             "title": "The Gun Seller",
             "author": "Hugh Laurie",
             "rating": "??/10",
+            "cover:":"",
             "year": "",
             "shelf": "true",
             "tbr": ""
@@ -435,6 +447,7 @@
             "title": "Prelude to Foundation",
             "author": "Isaac Asimov",
             "rating": "??/10",
+            "cover:":"",
             "year": "",
             "shelf": "true",
             "tbr": ""
@@ -443,6 +456,7 @@
             "title": "Pocket Guide to Wicca",
             "author": "Paul Tuitéan, Estelle Daniels ",
             "rating": "??/10",
+            "cover:":"",
             "year": "1998",
             "shelf": "true",
             "tbr": ""
@@ -452,6 +466,7 @@
             "author": "HDG Bhaktivedanta Swami Prabhupāda",
             "rating": "??/10",
             "year": "",
+            "cover:":"",
             "shelf": "true",
             "tbr": ""
         },
@@ -459,6 +474,7 @@
             "title": "The Circular Staircase",
             "author": "Mary Roberts Rinehart",
             "rating": "??/10",
+            "cover:":"",
             "year": "2022",
             "shelf": "true",
             "tbr": ""
@@ -468,6 +484,7 @@
             "author": "Lorna Jowett",
             "rating": "??/10",
             "year": "",
+            "cover:":"",
             "shelf": "true",
             "tbr": ""
         },
@@ -475,6 +492,7 @@
             "title": "Unaccustomed to Grace",
             "author": "Lesley Bannatyne",
             "rating": "??/10",
+            "cover:":"",
             "year": "2013",
             "shelf": "true",
             "tbr": ""
@@ -484,6 +502,7 @@
             "author": "Eva Rudy Jansen",
             "rating": "??/10",
             "year": "2004",
+            "cover:":"",
             "shelf": "true",
             "tbr": ""
         },
