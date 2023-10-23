@@ -100,6 +100,7 @@
             "rating": "??/10",
             "year": "",
             "shelf": "true",
+            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403824756i/22546129.jpg",
             "tbr": ""
         },
         {
@@ -108,6 +109,7 @@
             "rating": "??/10",
             "year": "2014",
             "shelf": "true",
+            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384384965i/18801978.jpg",
             "tbr": ""
         },
         {
@@ -115,6 +117,7 @@
             "author": "Lisa McMann",
             "rating": "??/10",
             "year": "",
+            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345888183i/13406329.jpg",
             "shelf": "false",
             "tbr": ""
         },
@@ -123,6 +126,7 @@
             "author": "Lisa McMann",
             "rating": "??/10",
             "year": "",
+            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356040226i/17063691.jpg",
             "shelf": "true",
             "tbr": ""
         },
@@ -131,6 +135,7 @@
             "author": "Lisa McMann",
             "rating": "??/10",
             "year": "",
+            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419107766i/23497854.jpg",
             "shelf": "true",
             "tbr": ""
         },
@@ -139,6 +144,7 @@
             "author": "Lisa McMann",
             "rating": "??/10",
             "year": "",
+            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458126536i/23497890.jpg",
             "shelf": "true",
             "tbr": ""
         },
@@ -147,6 +153,7 @@
             "author": "Elisabeth Stanley",
             "rating": "??/10",
             "year": "2022",
+            "cover":"",
             "shelf": "true",
             "tbr": ""
         },
