@@ -381,7 +381,7 @@
             "author": "Various",
             "editor": "George Held",
             "rating": "??/10",
-            "cover:":"",
+            "cover:":"https://github.com/ZerosLab/transitionary/raw/main/eros.HEIC",
             "year": "2002",
             "shelf": "true",
             "tbr": ""
@@ -2984,6 +2984,7 @@
             "rating": "??/10",
             "year": "2016",
             "shelf": "true",
+            "cover":"https://github.com/ZerosLab/transitionary/raw/main/abramelin.HEIC",
             "tbr": "true"
         },
         {
@@ -2992,6 +2993,7 @@
             "rating": "??/10",
             "year": "1916",
             "shelf": "true",
+            "cover":"https://github.com/ZerosLab/transitionary/raw/main/ritual.HEIC",
             "tbr": "true"
         },
         {
