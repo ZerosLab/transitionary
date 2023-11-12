@@ -491,7 +491,7 @@
             "author": "Lorna Jowett",
             "rating": "??/10",
             "year": "",
-            "cover":"",
+            "cover":"https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Sex_and_the_Slayer__6c8c41/Sex_and_the_Slayer_%2528Buffyverse%2529.jpg__90252__thumb.jpeg",
             "shelf": "true",
             "tbr": ""
         },
@@ -760,6 +760,7 @@
             "rating": "??/10",
             "year": "2021",
             "shelf": "true",
+            "cover": "https://cdn2.penguin.com.au/covers/400/9780241340554.jpg",
             "tbr": "true"
         },
         {
@@ -1269,10 +1270,11 @@
             "tbr": "true"
         },
         {
-            "title": "Earthbound Farmers' Alminac",
+            "title": "Earthbound Farmers' Alminac 2023",
             "author": "Lobelia Commons",
             "rating": "??/10",
             "year": "2023",
+            "cover":"https://firestorm.coop/img/products/198882023EarthboundFarmersAlma.jpeg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -1442,6 +1444,7 @@
             "author": "Jennifer V. Evans",
             "rating": "??/10",
             "year": "",
+            "cover":"https://ifp.nyu.edu/wp-content/uploads/2023/06/1-131.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -2345,6 +2348,7 @@
             "author": "Letha Dawson Scanzoni & Virginia Ramey Mollenkott",
             "rating": "??/10",
             "year": "",
+            "cover":"https://awab.org/wp-content/uploads/2023/04/41xp1MslMvL._SX326_BO1204203200_.jpg",
             "shelf": "true",
             "tbr": "true"
         },
