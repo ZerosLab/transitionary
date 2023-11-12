@@ -769,6 +769,7 @@
             "rating": "??/10",
             "year": "2020",
             "shelf": "true",
+            "cover": "https://biblio.uottawa.ca/omeka1/windowsandmirrors/files/original/09c78cb13190538159bb48b3592cd0f6.png"
             "tbr": "true"
         },
         {
@@ -881,6 +882,7 @@
             "editor": "New York Public Library",
             "rating": "??/10",
             "year": "2019",
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576540836l/49339554._SY475_.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -1090,6 +1092,7 @@
             "author": "Dr. Phillip S. Berg",
             "rating": "??/10",
             "year": "",
+            "cover":"https://archive.org/services/img/kabbalahforlayma0000berg/full/pct:200/0/default.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -1098,6 +1101,7 @@
             "author": "Dr. Phillip S. Berg",
             "rating": "??/10",
             "year": "",
+            "cover":"https://m.media-amazon.com/images/I/51EMAaRDenL._SL350_.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -2332,6 +2336,7 @@
             "author": "Brian W. Kernighan & Dennis M. Ritchie",
             "rating": "??/10",
             "year": "",
+            "cover": "https://covers.powells.com/9780131101630.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -2428,7 +2433,7 @@
             "title": "Cowan: A Stonewall Inn Book",
             "author": "Craig Cowan",
             "rating": "??/10",
-            "year": "",
+            "year": "https://morainebooks.cdn.bibliopolis.com/pictures/2671.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -2968,6 +2973,7 @@
             "author": "Baal Kadmon",
             "rating": "??/10",
             "year": "2015",
+            "cover": "https://m.media-amazon.com/images/I/51inxR9vxOL.jpg",
             "shelf": "true",
             "tbr": "true"
         },
