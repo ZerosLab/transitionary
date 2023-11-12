@@ -15,7 +15,7 @@
             "rating": "??/10",
             "year": "",
             "shelf": "true",
-            "cover":"https://upload.wikimedia.org/wikipedia/en/6/68/BadBeginning.jpg",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/6/68/BadBeginning.jpg",
             "tbr": ""
         },
         {
@@ -23,7 +23,7 @@
             "author": "Lemony Snicket",
             "rating": "??/10",
             "year": "",
-            "cover":"https://upload.wikimedia.org/wikipedia/en/d/d7/Ersatz_elavator.jpg",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/d/d7/Ersatz_elavator.jpg",
             "shelf": "true",
             "tbr": ""
         },
@@ -32,14 +32,14 @@
             "author": "Lemony Snicket",
             "rating": "??/10",
             "year": "",
-            "cover":"https://upload.wikimedia.org/wikipedia/en/3/35/Vile_village.jpg",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/3/35/Vile_village.jpg",
             "shelf": "true",
             "tbr": ""
         },
         {
             "title": "A Series of Unfortunate Events: The Hostile Hospital",
             "author": "Lemony Snicket",
-            "cover":"https://upload.wikimedia.org/wikipedia/en/5/5d/Hostile_hospital.jpg",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/5/5d/Hostile_hospital.jpg",
             "rating": "??/10",
             "year": "",
             "shelf": "true",
@@ -100,7 +100,7 @@
             "rating": "??/10",
             "year": "",
             "shelf": "true",
-            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403824756i/22546129.jpg",
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403824756i/22546129.jpg",
             "tbr": ""
         },
         {
@@ -109,7 +109,7 @@
             "rating": "??/10",
             "year": "2014",
             "shelf": "true",
-            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384384965i/18801978.jpg",
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384384965i/18801978.jpg",
             "tbr": ""
         },
         {
@@ -117,7 +117,7 @@
             "author": "Lisa McMann",
             "rating": "??/10",
             "year": "",
-            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345888183i/13406329.jpg",
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345888183i/13406329.jpg",
             "shelf": "false",
             "tbr": ""
         },
@@ -126,7 +126,7 @@
             "author": "Lisa McMann",
             "rating": "??/10",
             "year": "",
-            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356040226i/17063691.jpg",
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356040226i/17063691.jpg",
             "shelf": "true",
             "tbr": ""
         },
@@ -135,7 +135,7 @@
             "author": "Lisa McMann",
             "rating": "??/10",
             "year": "",
-            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419107766i/23497854.jpg",
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419107766i/23497854.jpg",
             "shelf": "true",
             "tbr": ""
         },
@@ -144,7 +144,7 @@
             "author": "Lisa McMann",
             "rating": "??/10",
             "year": "",
-            "cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458126536i/23497890.jpg",
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458126536i/23497890.jpg",
             "shelf": "true",
             "tbr": ""
         },
@@ -153,7 +153,7 @@
             "author": "Elisabeth Stanley",
             "rating": "??/10",
             "year": "2022",
-            "cover":"",
+            "cover": "",
             "shelf": "true",
             "tbr": ""
         },
@@ -163,7 +163,7 @@
             "rating": "??/10",
             "year": "2001",
             "shelf": "true",
-            "cover":"https://github.com/ZerosLab/transitionary/blob/main/bttm.jpg?raw=true",
+            "cover": "https://github.com/ZerosLab/transitionary/blob/main/bttm.jpg?raw=true",
             "tbr": ""
         },
         {
@@ -172,7 +172,7 @@
             "rating": "??/10",
             "year": "2001",
             "shelf": "true",
-            "cover":"https://github.com/ZerosLab/transitionary/blob/main/topping.jpg?raw=true",
+            "cover": "https://github.com/ZerosLab/transitionary/blob/main/topping.jpg?raw=true",
             "tbr": ""
         },
         {
@@ -259,7 +259,7 @@
             "title": "GENDERqUEER",
             "author": "Various",
             "editor": "Joan Nestle, Clare Howell, Riki Wilchins",
-            "cover":"https://www3.alibris-static.com/genderqueer-voices-from-beyond-the-sexual-binary/isbn/9781555837303_l.jpg",
+            "cover": "https://www3.alibris-static.com/genderqueer-voices-from-beyond-the-sexual-binary/isbn/9781555837303_l.jpg",
             "rating": "??/10",
             "year": "2002",
             "shelf": "true",
@@ -271,7 +271,7 @@
             "rating": "??/10",
             "year": "2021",
             "shelf": "true",
-            "cover":"https://static.bookscovers.es/imagenes/9788408/978840822486.JPG",
+            "cover": "https://static.bookscovers.es/imagenes/9788408/978840822486.JPG",
             "tbr": ""
         },
         {
@@ -279,7 +279,7 @@
             "author": "Milan Šára, Jitka Šárová, Antonín Bytel",
             "rating": "??/10",
             "year": "1969",
-            "cover":"https://github.com/ZerosLab/transitionary/blob/main/EB0F0610-61A0-4E82-B89F-9C006BFE10AC.jpeg?raw=true",
+            "cover": "https://github.com/ZerosLab/transitionary/blob/main/EB0F0610-61A0-4E82-B89F-9C006BFE10AC.jpeg?raw=true",
             "shelf": "true",
             "tbr": ""
         },
@@ -288,7 +288,7 @@
             "author": "Frank Herbert",
             "translator": "Herederos de Domingo Santos",
             "rating": "??/10",
-            "cover":"https://media1.popsugar-assets.com/files/thumbor/Zk9N-SBrcUgy7DNsTZCEL2s9kWE/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2020/09/20/926/n/47139299/464cbcf5b54d7e5d_Dune1/i/Dune-1965.jpg",
+            "cover": "https://media1.popsugar-assets.com/files/thumbor/Zk9N-SBrcUgy7DNsTZCEL2s9kWE/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2020/09/20/926/n/47139299/464cbcf5b54d7e5d_Dune1/i/Dune-1965.jpg",
             "year": "2021",
             "shelf": "true",
             "tbr": ""
@@ -297,7 +297,7 @@
             "title": "Mason",
             "author": "Salani",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "",
             "shelf": "true",
             "tbr": ""
@@ -307,7 +307,7 @@
             "author": "Edward Boccia",
             "rating": "??/10",
             "year": "2000",
-            "cover":"",
+            "cover": "",
             "shelf": "true",
             "tbr": "true"
         },
@@ -316,7 +316,7 @@
             "author": "Dashka Slater",
             "rating": "??/10",
             "year": "2017",
-            "cover":"https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374303235.jpg",
+            "cover": "https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374303235.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -324,7 +324,7 @@
             "title": "The Strong Force",
             "author": "Martin Abramson",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "????",
             "shelf": "true",
             "tbr": ""
@@ -333,7 +333,7 @@
             "title": "A Book of Currencies",
             "author": "Stephen Ellis",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "1997",
             "shelf": "true",
             "tbr": ""
@@ -343,7 +343,7 @@
             "author": "Edward Boccia",
             "rating": "??/10",
             "year": "1993",
-            "cover":"",
+            "cover": "",
             "shelf": "true",
             "tbr": ""
         },
@@ -353,14 +353,14 @@
             "rating": "??/10",
             "year": "2008-2009",
             "shelf": "true",
-            "cover":"",
+            "cover": "",
             "tbr": ""
         },
         {
             "title": "The King of Farce & The Queen of Tragedy",
             "author": "Carol Sherman",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "1987",
             "shelf": "true",
             "tbr": ""
@@ -368,7 +368,7 @@
         {
             "title": "Carlo X",
             "author": "Edward Boccia",
-            "cover":"",
+            "cover": "",
             "rating": "??/10",
             "year": "2008",
             "shelf": "true",
@@ -377,7 +377,7 @@
         {
             "title": "the Old Judge Stories",
             "author": "Carol Sherman",
-            "cover":"",
+            "cover": "",
             "rating": "??/10",
             "year": "1993",
             "shelf": "true",
@@ -388,7 +388,7 @@
             "author": "Various",
             "editor": "George Held",
             "rating": "??/10",
-            "cover":"https://github.com/ZerosLab/transitionary/blob/main/eros.png?raw=true",
+            "cover": "https://github.com/ZerosLab/transitionary/blob/main/eros.png?raw=true",
             "year": "2002",
             "shelf": "true",
             "tbr": ""
@@ -399,7 +399,7 @@
             "editor": "Ephraim Isaac, Yosef Tobi",
             "rating": "??/10",
             "year": "1999",
-            "cover":"",
+            "cover": "",
             "shelf": "true",
             "tbr": ""
         },
@@ -409,7 +409,7 @@
             "rating": "??/10",
             "year": "1982",
             "shelf": "true",
-            "cover":"",
+            "cover": "",
             "tbr": ""
         },
         {
@@ -417,7 +417,7 @@
             "author": "E.J. Hagadorn",
             "rating": "??/10",
             "year": "2013",
-            "cover":"",
+            "cover": "",
             "shelf": "true",
             "tbr": ""
         },
@@ -426,7 +426,7 @@
             "author": "Various",
             "editor": "Norm Goldstein",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "1993",
             "shelf": "true",
             "tbr": ""
@@ -437,7 +437,7 @@
             "editor": "Jane Fishburne Collier, Sylvia Junko Yanagisako",
             "rating": "??/10",
             "year": "",
-            "cover":"https://www.sup.org/img/covers/med_large/pid_2529.jpg",
+            "cover": "https://www.sup.org/img/covers/med_large/pid_2529.jpg",
             "shelf": "true",
             "tbr": ""
         },
@@ -445,7 +445,7 @@
             "title": "The Gun Seller",
             "author": "Hugh Laurie",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "",
             "shelf": "true",
             "tbr": ""
@@ -454,7 +454,7 @@
             "title": "Prelude to Foundation",
             "author": "Isaac Asimov",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "",
             "shelf": "true",
             "tbr": ""
@@ -463,7 +463,7 @@
             "title": "Pocket Guide to Wicca",
             "author": "Paul Tuitéan, Estelle Daniels ",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "1998",
             "shelf": "true",
             "tbr": ""
@@ -473,7 +473,7 @@
             "author": "HDG Bhaktivedanta Swami Prabhupāda",
             "rating": "??/10",
             "year": "",
-            "cover":"",
+            "cover": "",
             "shelf": "true",
             "tbr": ""
         },
@@ -481,7 +481,7 @@
             "title": "The Circular Staircase",
             "author": "Mary Roberts Rinehart",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "2022",
             "shelf": "true",
             "tbr": ""
@@ -491,7 +491,7 @@
             "author": "Lorna Jowett",
             "rating": "??/10",
             "year": "",
-            "cover":"https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Sex_and_the_Slayer__6c8c41/Sex_and_the_Slayer_%2528Buffyverse%2529.jpg__90252__thumb.jpeg",
+            "cover": "https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Sex_and_the_Slayer__6c8c41/Sex_and_the_Slayer_%2528Buffyverse%2529.jpg__90252__thumb.jpeg",
             "shelf": "true",
             "tbr": ""
         },
@@ -499,7 +499,7 @@
             "title": "Unaccustomed to Grace",
             "author": "Lesley Bannatyne",
             "rating": "??/10",
-            "cover":"",
+            "cover": "",
             "year": "2013",
             "shelf": "true",
             "tbr": ""
@@ -509,7 +509,7 @@
             "author": "Eva Rudy Jansen",
             "rating": "??/10",
             "year": "2004",
-            "cover":"",
+            "cover": "",
             "shelf": "true",
             "tbr": ""
         },
@@ -769,7 +769,7 @@
             "rating": "??/10",
             "year": "2020",
             "shelf": "true",
-            "cover": "https://biblio.uottawa.ca/omeka1/windowsandmirrors/files/original/09c78cb13190538159bb48b3592cd0f6.png"
+            "cover": "https://biblio.uottawa.ca/omeka1/windowsandmirrors/files/original/09c78cb13190538159bb48b3592cd0f6.png",
             "tbr": "true"
         },
         {
@@ -804,7 +804,7 @@
             "rating": "??/10",
             "year": "1996",
             "shelf": "true",
-            "cover":"https://www.readerslane.com/wp-content/uploads/2015/04/the-screwtape-letters.png",
+            "cover": "https://www.readerslane.com/wp-content/uploads/2015/04/the-screwtape-letters.png",
             "tbr": "true"
         },
         {
@@ -813,7 +813,7 @@
             "rating": "??/10",
             "year": "2016",
             "shelf": "true",
-            "cover":"https://3.bp.blogspot.com/-EiU695j1VLE/VxWEw0Fw1ZI/AAAAAAAAAFI/BGUCHQeeuAIsvgALC1s55lT3yX9hHqCOQCLcB/s1600/Curse%2Bof%2BStrahd%2B-%2BCover%2BArt.tif",
+            "cover": "https://3.bp.blogspot.com/-EiU695j1VLE/VxWEw0Fw1ZI/AAAAAAAAAFI/BGUCHQeeuAIsvgALC1s55lT3yX9hHqCOQCLcB/s1600/Curse%2Bof%2BStrahd%2B-%2BCover%2BArt.tif",
             "tbr": "false"
         },
         {
@@ -959,7 +959,7 @@
             "rating": "??/10",
             "year": "2022",
             "shelf": "true",
-            "cover":"https://cdn.thestorygraph.com/7mrs497mvi0y14tb9vc17fdcue23",
+            "cover": "https://cdn.thestorygraph.com/7mrs497mvi0y14tb9vc17fdcue23",
             "tbr": "true"
         },
         {
@@ -985,7 +985,7 @@
             "rating": "??/10",
             "year": "2010",
             "shelf": "true",
-            "cover":"https://cdn2.penguin.com.au/covers/original/9780140449419.jpg",
+            "cover": "https://cdn2.penguin.com.au/covers/original/9780140449419.jpg",
             "tbr": "false"
         },
         {
@@ -1019,7 +1019,7 @@
             "rating": "??/10",
             "year": "1983",
             "shelf": "true",
-            "cover":"https://i.ebayimg.com/images/g/CBUAAOSwnbxgJP~I/s-l500.jpg",
+            "cover": "https://i.ebayimg.com/images/g/CBUAAOSwnbxgJP~I/s-l500.jpg",
             "tbr": "true"
         },
         {
@@ -1092,7 +1092,7 @@
             "author": "Dr. Phillip S. Berg",
             "rating": "??/10",
             "year": "",
-            "cover":"https://archive.org/services/img/kabbalahforlayma0000berg/full/pct:200/0/default.jpg",
+            "cover": "https://archive.org/services/img/kabbalahforlayma0000berg/full/pct:200/0/default.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -1101,7 +1101,7 @@
             "author": "Dr. Phillip S. Berg",
             "rating": "??/10",
             "year": "",
-            "cover":"https://m.media-amazon.com/images/I/51EMAaRDenL._SL350_.jpg",
+            "cover": "https://m.media-amazon.com/images/I/51EMAaRDenL._SL350_.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -1278,7 +1278,7 @@
             "author": "Lobelia Commons",
             "rating": "??/10",
             "year": "2023",
-            "cover":"https://firestorm.coop/img/products/198882023EarthboundFarmersAlma.jpeg",
+            "cover": "https://firestorm.coop/img/products/198882023EarthboundFarmersAlma.jpeg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -1320,7 +1320,7 @@
             "rating": "??/10",
             "year": "2008",
             "shelf": "true",
-            "cover":"https://znanje.hr/product-images/963edff1-c5f7-437f-bba9-f010cf3dfe76.jpg",
+            "cover": "https://znanje.hr/product-images/963edff1-c5f7-437f-bba9-f010cf3dfe76.jpg",
             "tbr": "true"
         },
         {
@@ -1448,7 +1448,7 @@
             "author": "Jennifer V. Evans",
             "rating": "??/10",
             "year": "",
-            "cover":"https://ifp.nyu.edu/wp-content/uploads/2023/06/1-131.jpg",
+            "cover": "https://ifp.nyu.edu/wp-content/uploads/2023/06/1-131.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -2353,7 +2353,7 @@
             "author": "Letha Dawson Scanzoni & Virginia Ramey Mollenkott",
             "rating": "??/10",
             "year": "",
-            "cover":"https://awab.org/wp-content/uploads/2023/04/41xp1MslMvL._SX326_BO1204203200_.jpg",
+            "cover": "https://awab.org/wp-content/uploads/2023/04/41xp1MslMvL._SX326_BO1204203200_.jpg",
             "shelf": "true",
             "tbr": "true"
         },
@@ -2984,7 +2984,7 @@
             "rating": "??/10",
             "year": "2022",
             "shelf": "true",
-            "cover":"https://github.com/ZerosLab/transitionary/blob/main/closet.jpg?raw=true",
+            "cover": "https://github.com/ZerosLab/transitionary/blob/main/closet.jpg?raw=true",
             "tbr": "true"
         },
         {
@@ -2993,7 +2993,7 @@
             "rating": "??/10",
             "year": "2016",
             "shelf": "true",
-            "cover":"http://www.noba-web.org/Images/MushroomsOfNE.jpg",
+            "cover": "http://www.noba-web.org/Images/MushroomsOfNE.jpg",
             "tbr": "true"
         },
         {
@@ -3003,7 +3003,7 @@
             "rating": "??/10",
             "year": "2016",
             "shelf": "true",
-            "cover":"https://github.com/ZerosLab/transitionary/blob/main/abramelin.png?raw=true",
+            "cover": "https://github.com/ZerosLab/transitionary/blob/main/abramelin.png?raw=true",
             "tbr": "true"
         },
         {
@@ -3012,7 +3012,7 @@
             "rating": "??/10",
             "year": "1916",
             "shelf": "true",
-            "cover":"https://github.com/ZerosLab/transitionary/blob/main/ritual.png?raw=true",
+            "cover": "https://github.com/ZerosLab/transitionary/blob/main/ritual.png?raw=true",
             "tbr": "true"
         },
         {
@@ -3215,7 +3215,7 @@
             "rating": "??/10",
             "year": "",
             "shelf": "true",
-            "cover":"https://static.wikia.nocookie.net/arc-of-a-scythe/images/2/2f/Scythebookcover.jpg",
+            "cover": "https://static.wikia.nocookie.net/arc-of-a-scythe/images/2/2f/Scythebookcover.jpg",
             "tbr": "true"
         },
         {
@@ -3224,7 +3224,7 @@
             "rating": "??/10",
             "year": "",
             "shelf": "true",
-            "cover":"https://static.wikia.nocookie.net/arc-of-a-scythe/images/4/4c/Thunderhead_Cover.jpg",
+            "cover": "https://static.wikia.nocookie.net/arc-of-a-scythe/images/4/4c/Thunderhead_Cover.jpg",
             "tbr": "true"
         },
         {
@@ -3233,7 +3233,7 @@
             "rating": "??/10",
             "year": "",
             "shelf": "true",
-            "cover":"https://static.wikia.nocookie.net/arc-of-a-scythe/images/e/eb/The_Toll_.jpg",
+            "cover": "https://static.wikia.nocookie.net/arc-of-a-scythe/images/e/eb/The_Toll_.jpg",
             "tbr": "true"
         },
         {
